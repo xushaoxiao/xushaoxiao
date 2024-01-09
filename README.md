@@ -15,6 +15,6 @@ I'm Shaoxiao Xu, a software engineer, Good at backend technology stack.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Founder of [allinone-via-bazelmod](github.com/xushaoxiao/allinone-via-bazelmod)
+1. 🗣 Founder of [allinone-via-bazelmod](https://github.com/xushaoxiao/allinone-via-bazelmod)
 2. 🗣 Commented on [#178](https://github.com/zilliztech/milvus-backup/issues/178) in [zilliztech/milvus-backup](https://github.com/zilliztech/milvus-backup)
 <!--END_SECTION:activity-->
